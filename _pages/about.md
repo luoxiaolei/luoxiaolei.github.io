@@ -18,4 +18,4 @@ permalink: /about/
     ![编程随想曲](../images/wx.jpg)
 - 微信公众号-编程随想曲
 
-    ![编程随想曲](../images/gzh.jpg)
+    ![编程随想曲](../images/wxgzh.jpg)
