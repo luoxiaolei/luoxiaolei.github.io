@@ -11,8 +11,11 @@ permalink: /about/
 
 ## Contact
 - 邮箱
+
     coderluoxiaolei#gmail.com(#替换为@)
 - 微信
+
     ![编程随想曲](../images/wx.jpg)
 - 微信公众号-编程随想曲
+
     ![编程随想曲](../images/gzh.jpg)
