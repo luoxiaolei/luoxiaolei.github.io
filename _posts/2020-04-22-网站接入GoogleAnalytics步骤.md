@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020-04-22-网站接入GoogleAnalytics步骤
+title: 网站接入GoogleAnalytics步骤
 categories: [Experience]
 excerpt: 
 ---
