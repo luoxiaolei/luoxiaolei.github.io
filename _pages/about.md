@@ -15,7 +15,7 @@ permalink: /about/
     coderluoxiaolei#gmail.com(#替换为@)
 - 微信
 
-    ![编程随想曲](../images/wx.jpg)
+    <img src="/images/wx.jpg" width="100" height="100">
 - 微信公众号-编程随想曲
 
-    ![编程随想曲](../images/wxgzh.png)
+    <img src="/images/wxgzh.png" alt="编程随想曲" width="405" height="150">
